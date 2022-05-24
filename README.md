@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joeTHAgoat
+- 👋 Hi, I’m @Joe_Mugabo
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning Web developing.
 - 💞️ I’m looking to collaborate on PayPal project.
